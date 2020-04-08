@@ -1,0 +1,1 @@
+Por padrão o script no parametro "script" do package.json vai tentar executar o arquivo do parametro "main" por isso
