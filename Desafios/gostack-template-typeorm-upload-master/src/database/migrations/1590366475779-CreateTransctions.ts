@@ -17,12 +17,10 @@ export default class CreateTransctions1590366475779
           {
             name: 'title',
             type: 'varchar',
-            isUnique: true,
           },
           {
             name: 'type',
-            type: 'enum',
-            enum: ['income', 'outcome'],
+            type: 'varchar',
           },
           {
             name: 'value',
